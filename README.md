@@ -18,7 +18,7 @@ A passionate hobbyist programmer with experience in multiple programming languag
 - Engaging with the coding community.
 
 ## Projects
-Explore a variety of projects that showcase skills and interests in programming:
+Some Projects i have worked on in the past:
 - **Web Scraping Tools**: Automated scripts for gathering data from websites.
 - **Game Development**: Small games and applications created using C# and Unity.
 - **Web Applications**: Interactive applications built with JavaScript and Ruby on Rails.
