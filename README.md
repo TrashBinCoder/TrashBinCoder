@@ -27,6 +27,3 @@ Explore a variety of projects that showcase skills and interests in programming:
 ## Fun Fact
 Always on the lookout for the next challenge in coding, whether it's a new language, framework, or algorithm to master!
 
----
-
-Feel free to customize this README further to reflect personal touches or specific projects you want to highlight!
